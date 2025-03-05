@@ -1,6 +1,6 @@
 /* Define Global Colors */
 :root {
-  --background-color: #ffffff; /* White */
+  --background-color: #f7f7f7; /* White */
   --text-color: #333333; /* Dark Gray */
   --primary-color: #007bff; /* Vibrant Blue */
   --light-gray: #f8f9fa; /* Light Gray */
@@ -38,7 +38,7 @@ h2 {
 /* Buttons */
 button {
   background-color: var(--primary-color);
-  color: #ffffff;
+  color: #2f2cce;
   border: none;
   padding: 10px 20px;
   font-size: 16px;
@@ -106,7 +106,7 @@ img.small-image {
   }
 }
 .box {
-  background: #ffffff;
+  background: #0722b9;
   padding: 2em;
   box-shadow: 20px 1px 20px 1px;
 }
@@ -117,7 +117,7 @@ img.small-image {
   display: inline-block; /* Keeps shadow size consistent */
 }
 .box {
-  border: 3px solid rgb(103, 103, 209); /* Width: 3px, Style: solid, Color: blue */
+  border: 3px solid rgb(184, 223, 11); /* Width: 3px, Style: solid, Color: blue */
 }
 
   
